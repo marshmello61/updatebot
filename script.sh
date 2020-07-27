@@ -1,4 +1,6 @@
-# Update script of UserBot by @marshmello61
+# Copyright (C) 2020 github.com/marshmello61
+#
+#
 
 repo="UserBot"
 rm -rf ${repo}
